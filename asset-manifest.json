@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecom-redux/static/css/main.abd64e84.css",
+    "main.js": "/ecom-redux/static/js/main.2f1a8fe6.js",
+    "index.html": "/ecom-redux/index.html",
+    "main.abd64e84.css.map": "/ecom-redux/static/css/main.abd64e84.css.map",
+    "main.2f1a8fe6.js.map": "/ecom-redux/static/js/main.2f1a8fe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.2f1a8fe6.js"
+  ]
+}
